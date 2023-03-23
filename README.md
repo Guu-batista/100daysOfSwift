@@ -9,6 +9,7 @@ A Swift Playground that:
 Creates a constant holding any temperature in Celsius.
 Converts it to Fahrenheit by multiplying by 9, dividing by 5, then adding 32.
 Prints the result for the user, showing both the Celsius and Fahrenheit values.
+
 Checkpoint 2
 
 This time the challenge is to create an array of strings, then write some code that prints the number of items in the array and also the number of unique items in the array.
